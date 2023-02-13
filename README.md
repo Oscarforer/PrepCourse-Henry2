@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Este es un repositorio de prueba de Henry
+Este es un borrador de la creacion de un repositorio y clonarlo a mi pc
